@@ -1,0 +1,2 @@
+FROM 192.168.1.72:32110/nginx/nginx@sha256:4949aa7259aa6f827450207db5ad94cabaa9248277c6d736d5e1975d200c7e43
+ADD nodejs-demo.js /
